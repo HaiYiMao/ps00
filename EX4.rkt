@@ -7,6 +7,8 @@
 ;Examples:
 ;(tip 10 0.15)=>1.5
 ;(tip 20 0.17)=>3.4
+;(tip -3 0.5)=>0 wrong inputs will output 0
+;(tip 3 9)=>0   wrong input will output 0
 (define (tip bill tipper)
          (cond [(< bill 0) 0]
                [(or (< tipper 0) (> tipper 1)) 0]

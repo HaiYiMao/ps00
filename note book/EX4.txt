@@ -1,0 +1,7 @@
+Ex4
+Date         who           start            stop         interruption       question           time on task                  comments
+5/9          HYM           4:53pm               5:30pm              1+3+1                         Q4              the condition of nonnegative and [0.0 1.0] 
+                                                                                                                  format of racket define and cond sometimes 
+                                                                                                                  are confusing one parentheses is missing 
+                                                                                                                  can not figure out where figure out where
+                                                                                                                   problem occurs on the cond format missing or’s parentheses too

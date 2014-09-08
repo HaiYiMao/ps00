@@ -1,0 +1,3 @@
+EX3
+Date    who           start            stop      interruption     question     time on task                  comments
+5/9       MHY          4:29pm         4:39pm        0                Q3          10 mins          try to get familiar with the define format, and use  it

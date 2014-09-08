@@ -1,0 +1,5 @@
+EX5
+
+Date         who           start            stop         interruption       question           time on task                  comments
+9/6            HYM        12:20          12:34        2                        Q5                   14mins        learn to write the contract with the prior examples                                                                                                                                  
+ 

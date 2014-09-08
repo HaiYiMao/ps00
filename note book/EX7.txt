@@ -1,0 +1,4 @@
+EX7
+Date         who           start            stop         interruption       question           time on task                                       comments
+9/6           HYM           1:49           1: 52            0                  Q7                 3mins                                  getting familiar with the contract and      
+                                                                                                                                         constant pi

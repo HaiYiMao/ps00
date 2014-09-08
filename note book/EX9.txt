@@ -1,0 +1,6 @@
+EX9
+Date         who           start            stop         interruption       question                  time on task                                      comments
+9/6           HYM           2:08           2:25            1                      Q9                      17mins                             get familiar with the function using 
+                                                                                                                                             it is just the same as the operator
+                                                                                                                                            in another words function is an operator
+===================================================================================================================================================================================

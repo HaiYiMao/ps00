@@ -1,0 +1,6 @@
+Date         who           start               stop         interruption       question           time on task                  comments
+9/5          HYM           10:35am            10:40am            0               Q2                    5mins                     still getting used to the racket expression
+                                                                                                                           which more likes a prefix expression. that means 
+                                                                                                                           it can be stored in and generated from stack
+============================================================================committing to  git=======================================================================================
+9/8        HYM             10：30am             10：35 am                           Q2                   5mins 

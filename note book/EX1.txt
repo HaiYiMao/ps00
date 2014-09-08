@@ -1,0 +1,7 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/5          HYM           10:30            10:35         0                   Q1                 5                      getting familiar with the format rackets contract and  
+                                                                                                                        sometimes getting confused with C++ and java. forgot starting                                
+                                                                                                                        with parentheses
+                                                                                                                       
+============================================================================committing to  git=======================================================================================
+9/8        HYM          10：30             10：35                            Q1                 5mins

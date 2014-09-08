@@ -1,6 +1,6 @@
 EX10
 Date         who           start            stop         interruption       question           time on task                  comments
-9/6           HYM            2:33           2:46            3                  Q10               13mins            select two numbers to compare, smaller one  is compared with                                                                                   (                                                                                                                  another one left , then  add the two bigger num        
+9/6           HYM           2:33pm           2:46pm            3              Q10               13mins            select two numbers to compare, smaller one  is compared with                                                                                   (                                                                                                                 another one left , then  add the two bigger num        
   
                                                                                                                                                     
 
@@ -9,3 +9,5 @@ Date         who           start            stop         interruption       ques
                                                                                                                    purses. 
                                                                                                                    1 comparision
                                                                                                                    2 add them up
+============================================================================committing to  git=======================================================================================
+9/8        HYM            10：30pm         10：35pm                                             5mins

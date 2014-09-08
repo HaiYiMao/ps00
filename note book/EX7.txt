@@ -1,4 +1,6 @@
 EX7
 Date         who           start            stop         interruption       question           time on task                                       comments
-9/6           HYM           1:49           1: 52            0                  Q7                 3mins                                  getting familiar with the contract and      
+9/6          HYM           1:49pm           1: 52pm            0                  Q7             3mins                                  getting familiar with the contract and      
                                                                                                                                          constant pi
+============================================================================committing to  git=======================================================================================
+9/8          HYM          10：30pm         10：35pm                                               5mins

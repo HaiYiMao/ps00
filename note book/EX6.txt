@@ -1,10 +1,11 @@
 Date         who           start            stop         interruption       question           time on task                  comments
-9/6           HYM          12:40          1:00       2                         Q6                 20 mins          understand the problem, some limitation to the three arguments
+9/6           HYM          12:40pm          1:00pm           2                 Q6                 20 mins          understand the problem, some limitation to the three arguments
                                                                                                                    to the three arguments that is b*b>=4*a*c if we want to get a       
                                                                                                                    real solution 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                              
                                                                                                                                                                                                                                                                                     
-9/6         HYM            1:00         1:17             3                       Q6                17mins          maybe the roots don’t  must be a real   number  ; refer to                         
+9/6         HYM            1:00pm           1:17pm             3                Q6                17mins          maybe the roots don’t  must be a real   number  ; refer to                         
                                                                                                                    the prior example of contract formats
-==================================================================================================================================================================================
+============================================================================committing to  git=======================================================================================
+9/8        HYM            10：30pm         10：35pm                                             5mins

@@ -6,8 +6,8 @@ Date         who           start            stop         interruption       ques
                                                                                                                   can not figure out where figure out where
                                                                                                                    problem occurs on the cond format missing or’s parentheses too
 ============================================================================committing to  git=======================================================================================
-9/8        HYM            10：30pm         10：35pm                                             5mins
+9/8        HYM            10：30pm         10：35pm                                               5mins
 ============================================================================committing to  git=======================================================================================
-9/8        HYM            3:17pm                                                                                  Is the condition pre-test necessary? what will the program 
+9/8        HYM            3:17pm           3:29pm                                                12mins                        Is the condition pre-test necessary? what will the program 
                                                                                                                   output?   if the condition is not satisfied? I add some 
                                                                                                                   interpretation to the input and output.
